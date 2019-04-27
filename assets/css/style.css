@@ -18,6 +18,16 @@ h1 {
   float: right;
 }
 
+h2 {
+  font-size: 30px;
+  /* margin-left: 15px; */
+  background-color: rgb(202, 202, 202);
+  padding: 10px;
+  border-radius: 20px;
+  font-weight: 200;
+  
+}
+
 img {
   float: left;
 }
@@ -29,11 +39,13 @@ img {
   border-radius: 20px;
 }
 
-.form2 {
+#resultsbox {
   width: 1000px;
   height: 100px;
   margin: 10px auto;
   border: 2px solid grey;
+  border-radius: 20px;
+  
 }
 
 .form-group {
@@ -42,5 +54,9 @@ img {
 
 #end-year {
   margin-bottom: 15px;
+}
+
+#records {
+  width: 95%;
 }
 
