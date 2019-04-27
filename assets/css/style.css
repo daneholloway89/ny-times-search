@@ -26,3 +26,19 @@ img {
   margin: 10px auto;
   border: 2px solid grey;
 }
+
+.form2 {
+  width: 1000px;
+  height: 100px;
+  margin: 10px auto;
+  border: 2px solid grey;
+}
+
+.form-group {
+  margin: 10px 0 0 15px;
+}
+
+#end-year {
+  margin-bottom: 15px;
+}
+
