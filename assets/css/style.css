@@ -1,0 +1,28 @@
+.container1 {
+  border: 2px solid rgb(5, 5, 88);
+  height: 200px;
+  width: 1000px;
+  color: white;
+  background-color: rgb(5, 5, 88);
+  margin: 20px auto;
+  text-align: center;
+  padding: 60px;
+  
+  
+}
+
+h1 {
+  font-size: 80px;
+  font-weight: 100;
+  float: right;
+}
+
+img {
+  float: left;
+}
+
+.form {
+  width: 1000px;
+  margin: 10px auto;
+  border: 2px solid grey;
+}
