@@ -36,7 +36,7 @@ img {
   width: 1000px;
   margin: 10px auto;
   border: 2px solid grey;
-  border-radius: 20px;
+  border-radius: 22px;
 }
 
 #resultsbox {
@@ -44,7 +44,7 @@ img {
   height: 100px;
   margin: 10px auto;
   border: 2px solid grey;
-  border-radius: 20px;
+  border-radius: 22px;
   
 }
 
@@ -58,5 +58,9 @@ img {
 
 #records {
   width: 95%;
+}
+
+.btn btn-primary {
+  margin-left: 10px;
 }
 
