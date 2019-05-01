@@ -1,6 +1,14 @@
+body {
+  background-image: url("../images/nyc.jpg");
+  height: 100%;
+  background-size: cover;
+  position: static;
+
+}
+
 .container1 {
-  border: 2px solid rgb(5, 5, 88);
-  height: 200px;
+  border: 2px solid rgb(230, 230, 255);
+  height: 220px;
   width: 1000px;
   color: white;
   background-color: rgb(5, 5, 88);
@@ -21,7 +29,7 @@ h1 {
 h2 {
   font-size: 30px;
   /* margin-left: 15px; */
-  background-color: rgb(202, 202, 202);
+  /* background-color: rgb(202, 202, 202); */
   padding: 10px;
   border-radius: 20px;
   font-weight: 200;
@@ -33,15 +41,18 @@ img {
 }
 
 .form {
+  background-color: whitesmoke;
   width: 1000px;
+  height: 425px;
   margin: 10px auto;
   border: 2px solid grey;
   border-radius: 22px;
+  font-family: 'Raleway', sans-serif;
 }
 
 #resultsbox {
   width: 1000px;
-  height: 100px;
+  height: max-content;
   margin: 10px auto;
   border: 2px solid grey;
   border-radius: 22px;
@@ -60,7 +71,7 @@ img {
   width: 95%;
 }
 
-.btn btn-primary {
+#submit {
   margin-left: 10px;
 }
 
